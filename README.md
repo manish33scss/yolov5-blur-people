@@ -5,5 +5,5 @@ This is a colab implementation of [Yolo-v5](https://github.com/ultralytics/yolov
 # Deployment
 All the necessary instruction are mentioned in the notebook. 
 
-#Resources
+# Resources
 Weight files can be located at [this](https://github.com/deepakcrk/yolov5-crowdhuman)
